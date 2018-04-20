@@ -1,0 +1,8 @@
+{
+    "require": {
+        "monolog/monolog": "*",
+        "rmccue/requests": ">=1.0",
+        "filp/whoops": "*",
+        "stefangabos/zebra_image": "*"
+    }
+}
